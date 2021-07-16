@@ -1,0 +1,114 @@
+
+.logo{
+    width: 200px;
+    
+}
+.container{
+    padding-bottom: 70px;
+    margin-bottom: 70px;
+    
+}
+.signin{
+    background-color: #21B573;
+    border-radius: 33px;
+}
+.firstbg{
+    background-color: #F0FFF0;
+    position: absolute;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+}
+.col-md-6 img{
+    width: 554px;
+    height: 346px;
+}
+.headtext{
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    font-family: Poppins;
+}
+.pera{
+    color: #6C6B6B;
+}
+span{
+    color: #21b573;
+}
+.learn{
+    color: #FD511A;
+}
+.startedbutton{
+   background-color: #21B573;
+   border-radius: 33px;
+   border: none;
+   padding: 10px 30px;
+   color: white;
+}
+.bgcolor{
+background-color: #F0FFF0;
+}
+.categories img{
+width: 100px;
+padding-left: 20px;
+margin-bottom: 30px;
+padding-top: 50px;
+}
+
+.book{
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+.one{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.two{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.three{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.four{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.desi{
+    color: #585859;
+}
+.cad{
+    margin-bottom: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+.icon img{
+    width: 24px;
+    height: 24px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    border: none;
+}
+.beda{
+    width: 120px;
+    border: 3px black;
+}
+.millions{
+    color: rgb(223, 215, 215);
+   font-weight: 300;
+}
+.black{
+    
+    
+}
