@@ -50,14 +50,12 @@ span{
 background-color: #F0FFF0;
 }
 .categories img{
-width: 100px;
-padding-left: 20px;
-margin-bottom: 30px;
-padding-top: 50px;
-}
+      width: 80px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
 
-.book{
-    padding-left: 80px;
+.categories p{
     padding-bottom: 30px;
 }
 .one{
@@ -103,7 +101,7 @@ padding-top: 50px;
 }
 .beda{
     width: 120px;
-    border: 3px black;
+ 
 }
 .millions{
     color: rgb(255, 255, 255);
@@ -126,4 +124,4 @@ footer{
 }
 .textdec{
     text-decoration: none;
-.
+}
