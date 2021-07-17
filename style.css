@@ -5,13 +5,12 @@
 }
 .container{
     padding-bottom: 70px;
-    margin-bottom: 70px;
-    
 }
 .signin{
     background-color: #21B573;
     border-radius: 33px;
 }
+
 .firstbg{
     background-color: #F0FFF0;
     position: absolute;
@@ -50,9 +49,14 @@ span{
 background-color: #F0FFF0;
 }
 .categories img{
-      width: 80px;
+      width: 70px;
       padding-top: 30px;
       padding-bottom: 30px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .categories{
+        margin-top: 70px;
     }
 
 .categories p{
@@ -66,6 +70,7 @@ background-color: #F0FFF0;
     background: #FFFFFF;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    
 }
 .three{
     background: #F8FFFB;
